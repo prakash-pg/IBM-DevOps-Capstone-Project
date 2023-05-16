@@ -1,4 +1,6 @@
-# IBM-DevOps In this Capstone project, we will apply many of the technologies and concepts learned in the preceding courses to build a Customer Accounts microservice.
+# IBM-DevOps 
+
+In this Capstone project, we will apply many of the technologies and concepts learned in the preceding courses to build a Customer Accounts microservice.
 
 We will begin this capstone adventure by developing an Agile plan to create a RESTful microservice. We will create a GitHub repository and a Zenhub kanban board to manage the project by building a user story template in GitHub to write well-structured user stories. We will build a product backlog in Zenhub by adding user stories to represent each step needed to build the Customer Accounts microservice. After finishing our product backlog, we will build a sprint plan. This step involves scheduling sprints, designating estimated story points to stories, assigning several stories to the next sprint, and building your sprint backlog. 
 
